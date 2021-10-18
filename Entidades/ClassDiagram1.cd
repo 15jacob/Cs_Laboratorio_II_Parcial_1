@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PetShopCore.Cliente">
+    <Position X="7.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIAAEAAAAAAAAAAAAAABEAAIABAACEiA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Empleado">
+    <Position X="3.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAAgAAAAAAAAAAAAAAAAAABCAAAAAgAAAyA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Producto">
+    <Position X="10.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PetShopCore.Producto.ECategoria" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Producto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAABgAACkAAAAoAAQgAAAEIBAAAAAAAAAAiA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Tienda">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAUBBAQAAAAAAAAgAAgAAAAQAAAAAAIAAAYAA=</HashCode>
+      <FileName>Tienda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Usuario">
+    <Position X="3.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Venta">
+    <Position X="7.25" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAACEAIQAgACEAAAAAAAAAAAAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PetShopCore.Validaciones">
+    <Position X="0.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAARAAAAAAAAEAAQAAgAAAAAACQAAAAAAAAAAAACA=</HashCode>
+      <FileName>Validaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

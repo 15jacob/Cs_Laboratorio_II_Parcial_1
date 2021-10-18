@@ -1,0 +1,12 @@
+C:\Users\Llezer\source\repos\Entidades\bin\Debug\net5.0\PetShopCore.deps.json
+C:\Users\Llezer\source\repos\Entidades\bin\Debug\net5.0\PetShopCore.dll
+C:\Users\Llezer\source\repos\Entidades\bin\Debug\net5.0\ref\PetShopCore.dll
+C:\Users\Llezer\source\repos\Entidades\bin\Debug\net5.0\PetShopCore.pdb
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.csproj.AssemblyReference.cache
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.AssemblyInfoInputs.cache
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.AssemblyInfo.cs
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.csproj.CoreCompileInputs.cache
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.dll
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\ref\PetShopCore.dll
+C:\Users\Llezer\source\repos\Entidades\obj\Debug\net5.0\PetShopCore.pdb
