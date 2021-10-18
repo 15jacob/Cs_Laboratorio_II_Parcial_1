@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Laboratorio II 1er Parcial - Pet Shop/1.0.0": {
+        "dependencies": {
+          "PetShopCore": "1.0.0"
+        },
+        "runtime": {
+          "Laboratorio II 1er Parcial - Pet Shop.dll": {}
+        }
+      },
+      "PetShopCore/1.0.0": {
+        "runtime": {
+          "PetShopCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorio II 1er Parcial - Pet Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetShopCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
